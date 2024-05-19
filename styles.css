@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Sedan+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div {
+    border: solid 5px black;
+    background-color: #f0eeee;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+div h1 {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-weight: bolder;
+}
+
+button {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 5px;
+    border: solid 3px black;
+    padding: 15px;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    margin: 15px;
+}
+
+div p {
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    text-shadow: 1px 5px 15px rgb(72, 255, 0);
+}
+
+
